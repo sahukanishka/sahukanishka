@@ -6,7 +6,6 @@
 - 👯 I’m looking to collaborate on Projects 
 - 💬 Chat with me about new ideas 
 - 💼 Connect me on Linkedin <a href="https://www.linkedin.com/in/kanishka-sahu-71114416b/">Kanishka sahu</a>
-- ⚡ Fun fact:I'm single 
--->
+- ⚡ Fun fact:I'm single 😉
 
 
