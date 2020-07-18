@@ -5,20 +5,8 @@
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on Projects 
 - 💬 Chat with me about new ideas 
-- 📫 Connect me on 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💼 Connect me on Linkedin <a href="https://www.linkedin.com/in/kanishka-sahu-71114416b/">Kanishka sahu</a>
+- ⚡ Fun fact:I'm single 
 -->
 
 
-
-.button {
-  background-color: #4CAF50; /* Green */
-  border: none;
-  color: white;
-  padding: 15px 32px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
-}
