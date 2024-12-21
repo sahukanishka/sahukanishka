@@ -8,7 +8,6 @@ I'm a passionate software developer with a keen interest in web development, AI,
 - 🌱 I’m currently learning advanced React and exploring machine learning algorithms.
 - 👯 I’m looking to collaborate on open source projects and innovative web applications.
 - 💬 Ask me about JavaScript, Python, and web development.
-- 📫 How to reach me: [sahu.kanishka@example.com](mailto:sahu.kanishka@example.com)
 - ⚡ Fun fact: I love hiking and exploring new places.
 
 ## 🔧 Technologies & Tools
@@ -28,13 +27,3 @@ I'm a passionate software developer with a keen interest in web development, AI,
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/sahukanishka/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter)](https://twitter.com/sahukanishka)
-
-## 💼 Projects
-- [Project 1](https://github.com/sahukanishka/project1) - Description of project 1.
-- [Project 2](https://github.com/sahukanishka/project2) - Description of project 2.
-
-## 📝 Blog Posts
-- [My Journey with Web Development](https://medium.com/@sahukanishka/my-journey-with-web-development)
-- [Understanding Machine Learning](https://medium.com/@sahukanishka/understanding-machine-learning)
-
-Thank you for visiting my profile! Feel free to reach out if you want to collaborate on any projects or just want to chat about tech. 😊
