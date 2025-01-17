@@ -2,13 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sahukanishka&color=blue)
 
-## 🧑‍💻 About Me
-I'm a passionate software developer with a keen interest in web development, AI, and open-source contributions. I enjoy solving complex problems and building scalable solutions.
-
-- 🌱 I’m currently learning advanced React and exploring machine learning algorithms.
-- 👯 I’m looking to collaborate on open source projects and innovative web applications.
-- 💬 Ask me about JavaScript, Python, and web development.
-- ⚡ Fun fact: I love hiking and exploring new places.
+Here for fun
 
 ## 🔧 Technologies & Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
